@@ -6,13 +6,15 @@
   ==================================================================
 -->
 
-## 10/27/2025 - Cadded the base design  
+## 10/27/2025 - Cadded the base design of palm  
 
 I made this part which will become the palm of the robot hand and there will be strings going through the holes in there going into the bottom, which will allow me to pull different strings/ servo pull the strings with a pully to move each finger up and down.
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAwNywicHVyIjoiYmxvYl9pZCJ9fQ==--215eab1ac85362763067e83e33607cabbe4fc6f5/image.png)
 
 i took inspration from the Intuitive Surgical claws and how they use a lot of small metal strings to move the gripper in different ways
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjAwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--6adabded8389f5484157339f5e50ab4f9f2085a3/image.png)
+
+While doing all this I had to learn how to use a lot of different tools like planes and working with meshes.
 
 
 
