@@ -21,3 +21,13 @@ While doing all this I had to learn how to use a lot of different tools like pla
 
   
 
+## 10/31/2025 - Cadded the Finger  
+
+I cadded the holes on top of the fingers to allow for putting the string through
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--cbc76f96c78bfa00188500fd8f6f599f569c8963/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NiwicHVyIjoiYmxvYl9pZCJ9fQ==--a099124080c830f8e403702bd24bb27aaf6508be/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzA0NywicHVyIjoiYmxvYl9pZCJ9fQ==--369907d853d77baa38f221a197be21475110c63b/image.png)
+
+to simplify the process i just did the middle finger, pinky, ring and thumb
+  
+
