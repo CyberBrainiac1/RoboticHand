@@ -33,13 +33,3 @@ I wanted to learn how robotic hands really work and get hands-on experience with
 
 ---
 
-## What's in the repo?
-
-- **CAD files for palm:** Design with holes for routing strings.
-- **Finger CAD files:** Middle, ring, pinky, and thumb with string routing features.
-- **Base CAD:** Keeps the hand upright for testing.
-- **CAD assembly:** Shows how palm, fingers, and base fit together.
-
----
-
-*Shared as part of a Hack Club Blueprint project so other students can check out the design, learn from it, and maybe make their own robotic hand!*
