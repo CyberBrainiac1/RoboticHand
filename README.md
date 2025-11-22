@@ -12,8 +12,9 @@ I wanted to learn how robotic hands really work and get hands-on experience with
 
 ## 3D Model Screenshot
 
-<img width="579" height="623" alt="image" src="https://github.com/user-attachments/assets/675f0534-27fb-4676-8f9d-d9566049e61e" />
-<img width="556" height="637" alt="image" src="https://github.com/user-attachments/assets/f9abc490-2abd-4665-a0b4-bf84ce8907ee" />
+<img width="792" height="640" alt="image" src="https://github.com/user-attachments/assets/9df56278-d786-4002-a5de-12b7fc4fa829" />
+<img width="624" height="689" alt="image" src="https://github.com/user-attachments/assets/fa767b0e-6f4f-428e-ad54-0caea4c539d8" />
+
 <img width="1298" height="624" alt="image" src="https://github.com/user-attachments/assets/9dd18fdf-923b-4231-9a8f-af79eaaf349d" />
 
 
