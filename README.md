@@ -28,9 +28,10 @@ I wanted to learn how robotic hands really work and get hands-on experience with
 | Item                                    | Description                        | Quantity | Unit Price ($) | Total Price ($) | URL                                        | Running Total ($ with Tax) |
 |------------------------------------------|------------------------------------|----------|----------------|-----------------|---------------------------------------------|----------------------------|
 | ANNIMOS DS3218MG Digital Servo (20KG)    | High-torque waterproof servo       | 5        | 13.99          | 69.95           | [link](https://www.amazon.com/ANNIMOS-Digital-Waterproof-DS3218MG-Control/dp/B076CNKQX4/)   | $75.02                     |
-| Adafruit 16-Channel PWM/Servo HAT        | Servo control board for Raspberry Pi| 2        | 17.5           | 35.00           | [link](https://www.adafruit.com/product/2327)                              | $112.56                    |
-| Shipping (Adafruit)                      | Standard shipping                  | 1        | 5.95           | 5.95            | [link](https://www.adafruit.com)                                      | $118.94                    |
-| Servo Horns                              | Metal servo attachment             | 1        | 6.99           | 6.99            | [link](https://www.amazon.com/Honbay-Aluminum-Standard-Airplane-Hop-up/dp/B09CT7QK6C/)      | $126.44                    |
+| Adafruit 16-Channel PWM/Servo HAT        | Servo control board for Raspberry Pi| 1        | 17.50          | 17.50           | [link](https://www.adafruit.com/product/2327)                              | $93.79                    |
+| Shipping (Adafruit)                      | Standard shipping                  | 1        | 5.95           | 5.95            | [link](https://www.adafruit.com)                                      | $100.17                    |
+| Servo Horns                              | Metal servo attachment             | 1        | 6.99           | 6.99            | [link](https://www.amazon.com/Honbay-Aluminum-Standard-Airplane-Hop-up/dp/B09CT7QK6C/)      | $107.67                    |
 
 ---
+
 
