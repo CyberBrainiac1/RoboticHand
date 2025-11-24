@@ -22,16 +22,13 @@ I wanted to learn how robotic hands really work and get hands-on experience with
 
 ---
 
-
 ## Bill of Materials (BOM)
 
-| Item                                    | Description                        | Quantity | Unit Price ($) | Total Price ($) | URL                                        | Running Total ($ with Tax) |
-|------------------------------------------|------------------------------------|----------|----------------|-----------------|---------------------------------------------|----------------------------|
-| ANNIMOS DS3218MG Digital Servo (20KG)    | High-torque waterproof servo       | 5        | 13.99          | 69.95           | [link](https://www.amazon.com/ANNIMOS-Digital-Waterproof-DS3218MG-Control/dp/B076CNKQX4/)   | $75.02                     |
-| Adafruit 16-Channel PWM/Servo HAT        | Servo control board for Raspberry Pi| 1        | 17.50          | 17.50           | [link](https://www.adafruit.com/product/2327)                              | $93.79                    |
-| Shipping (Adafruit)                      | Standard shipping                  | 1        | 5.95           | 5.95            | [link](https://www.adafruit.com)                                      | $100.17                    |
-| Servo Horns                              | Metal servo attachment             | 1        | 6.99           | 6.99            | [link](https://www.amazon.com/Honbay-Aluminum-Standard-Airplane-Hop-up/dp/B09CT7QK6C/)      | $107.67                    |
-
----
+| Item                                            | Description                        | Quantity | Unit Price ($) | Total Price ($) | URL                                        | Running Total ($ with Tax) |
+|-------------------------------------------------|------------------------------------|----------|----------------|-----------------|---------------------------------------------|----------------------------|
+| 20KG Digital Servo (AliExpress)                 | High-torque waterproof servo       | 5        | 11.36          | 56.80           | [link](https://www.aliexpress.us/item/3256809996702811.html?spm=a2g0o.productlist.main.30.2d995562lgOwuX&algo_pvid=d5782953-d398-4725-94a9-164567ea9646&algo_exp_id=d5782953-d398-4725-94a9-164567ea9646-29&pdp_ext_f=%7B%22order%22%3A%228%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2132.68%2111.36%21%21%21231.10%2180.33%21%402101eee917640048605804991e3632%2112000051434426409%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7c12fb58%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461913&curPageLogUid=wuWtqERac1qF&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010183017563%7C_p_origin_prod%3A) | $56.80                       |
+| Adafruit 16-Channel PWM/Servo HAT               | Servo control board for Raspberry Pi| 1        | 17.50          | 17.50           | [link](https://www.adafruit.com/product/2327)                                                      | $74.30                    |
+| Shipping (Adafruit)                             | Standard shipping                  | 1        | 5.95           | 5.95            | [link](https://www.adafruit.com)                                                                    | $80.25                    |
+| Servo Horns                                     | Metal servo attachment             | 1        | 6.99           | 6.99            | [link](https://www.amazon.com/Honbay-Aluminum-Standard-Airplane-Hop-up/dp/B09CT7QK6C/)              | $87.24                    |
 
 
