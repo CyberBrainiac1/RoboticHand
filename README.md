@@ -31,5 +31,5 @@ I chose to use **20 kg·cm servos** because I cannot precisely anticipate the re
 | Adafruit 16-Channel PWM/Servo HAT | Multi-servo controller for Raspberry Pi | 1 | 17.50 | 17.50 | Adafruit | 80.01 |
 | Shipping (Adafruit) | Standard shipping | 1 | 5.95 | 5.95 | Adafruit | 85.96 |
 | Metal Servo Horn | Stronger horn for string attachment | 1 | 0.99 | 0.99 | AliExpress | 86.95 |
-| Raspberry Pi Zero 2 W | Controller for servo coordination | 1 | 18.05 | 18.05 | AliExpress | 105.00 |
+
 
