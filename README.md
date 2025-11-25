@@ -12,9 +12,7 @@ I wanted hands-on experience with tendon-driven actuation, multi-servo control, 
 
 ## 3D Model Screenshots
 
-*(CAD renders from my design)*
-
-<img src="/mnt/data/47fa3091-ce6e-46d5-b41d-63c9511964ea.png" width="700" />
+<img width="792" height="640" alt="image" src="https://github.com/user-attachments/assets/9df56278-d786-4002-a5de-12b7fc4fa829" /> <img width="624" height="689" alt="image" src="https://github.com/user-attachments/assets/fa767b0e-6f4f-428e-ad54-0caea4c539d8" /> <img width="1298" height="624" alt="image" src="https://github.com/user-attachments/assets/9dd18fdf-923b-4231-9a8f-af79eaaf349d" />
 
 ---
 
