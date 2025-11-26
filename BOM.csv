@@ -1,8 +1,9 @@
-Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($ with Tax)
-20KG Digital Servo (AliExpress Original),High-torque waterproof servo,1,8.79,8.79,https://www.aliexpress.us/item/3256808992396501.html,8.79
-9imod IP67 Waterproof Servo Pack,IP67 waterproof high torque servo (see image),1,17.79,17.79,N/A,26.58
-AliExpress Shipping (Servo Order),Shipping for AliExpress servo/horn bundle,1,15.45,15.45,N/A,42.03
-Adafruit 16-Channel PWM/Servo HAT,Servo control board for Raspberry Pi,1,17.50,17.50,https://www.adafruit.com/product/2327,59.53
-Shipping (Adafruit),Standard shipping,1,5.95,5.95,https://www.adafruit.com,65.48
-Servo Horn (AliExpress),Metal servo attachment,1,0.99,0.99,https://www.aliexpress.com/item/3256802841540071.html,66.47
-Raspberry Pi 4B,*You already own this item*,1,0.00,0.00,https://www.raspberrypi.org/products/raspberry-pi-4-model-b/,66.47
+Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Source,Running Total ($ with Tax)
+9imod IP67 Waterproof Servo Pack,IP67 waterproof high torque servo,1,30.79,30.79,N/A,AliExpress,30.79
+Digital Servo 20KG,High-torque waterproof servo,1,8.82,8.82,N/A,AliExpress,39.61
+Aluminum Metal 25T Servo Arm,5PCS/10PCS round type 25T servo arm,1,0.99,0.99,N/A,AliExpress,40.60
+AliExpress Shipping,Shipping for all AliExpress items,1,11.07,11.07,N/A,AliExpress,51.67
+Adafruit 16-Channel PWM/Servo HAT,Servo control board for Raspberry Pi,1,17.50,17.50,https://www.adafruit.com/product/2327,Adafruit,69.17
+Shipping (Adafruit),Standard shipping,1,5.95,5.95,https://www.adafruit.com,Adafruit,75.12
+Servo Horn (AliExpress, prev.),Metal servo attachment,1,0.99,0.99,https://www.aliexpress.com/item/3256802841540071.html,AliExpress,76.11
+Raspberry Pi 4B,*You already own this item*,1,0.00,0.00,https://www.raspberrypi.org/products/raspberry-pi-4-model-b/,Local,76.11
