@@ -1,6 +1,6 @@
 # Robotic Hand Project
 
-This project is a 3D-printed robotic hand designed to mimic human finger flexion using a tendon-based mechanism. Each finger uses a servo to pull a string routed through the joints, allowing the finger to curl smoothly. A Raspberry Pi Zero 2 W paired with a 16-channel PWM HAT controls all six servos.
+This project is a 3D-printed robotic hand designed to mimic human finger flexion using a tendon-based mechanism. Each finger uses a servo to pull a string routed through the joints, allowing the finger to curl smoothly. A Raspberry Pi 4b paired with a 16-channel PWM HAT controls all six servos.
 
 ---
 
@@ -12,7 +12,12 @@ I wanted hands-on experience with tendon-driven actuation, multi-servo control, 
 
 ## 3D Model Screenshots
 
-<img width="792" height="640" alt="image" src="https://github.com/user-attachments/assets/9df56278-d786-4002-a5de-12b7fc4fa829" /> <img width="624" height="689" alt="image" src="https://github.com/user-attachments/assets/fa767b0e-6f4f-428e-ad54-0caea4c539d8" /> <img width="1298" height="624" alt="image" src="https://github.com/user-attachments/assets/9dd18fdf-923b-4231-9a8f-af79eaaf349d" />
+<img width="395" height="650" alt="image" src="https://github.com/user-attachments/assets/6b07c691-a54b-4a90-a34d-a1e2c733f9c9" />
+<img width="413" height="706" alt="image" src="https://github.com/user-attachments/assets/2cbce2e7-2e32-4fe3-ac27-93fb5b24297f" />
+
+<img width="423" height="771" alt="image" src="https://github.com/user-attachments/assets/8547de84-a66f-4590-bfa7-e42ad193267c" />
+
+
 
 ---
 
