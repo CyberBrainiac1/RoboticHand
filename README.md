@@ -23,11 +23,6 @@ I want to do the wiring exactly like this
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/25cc2481-d731-4d76-85a8-fdfcbda2c24a" />
 
 ---
-## Servo Torque Justification
-
-I chose to use **20 kg·cm servos** because I cannot precisely anticipate the real torque demands of a tendon-driven finger mechanism. Even though the fingers are lightweight, friction at each joint, the angles in the string routing, changing lever arms as the finger bends, and dynamic loads all multiply the torque the servo must provide. Instead of risking stalling, weak curls, or inconsistent grip strength, using high-torque servos gives a large safety margin and ensures smooth, reliable operation no matter how the mechanical system behaves. This also leaves room for future upgrades or heavier finger designs without needing to replace the actuators.
-
----
 
 ## Bill of Materials (BOM)
 
