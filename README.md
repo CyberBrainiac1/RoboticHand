@@ -36,5 +36,5 @@ I chose to use **20 kg·cm servos** because I cannot precisely anticipate the re
 | Adafruit 16-Channel PWM/Servo HAT | Servo control board for Raspberry Pi      | 1        | 17.50          | 17.50           | Adafruit 16-Ch HAT | 85.69                      |
 | Shipping (Adafruit)               | Standard shipping                         | 1        | 5.95           | 5.95            | Adafruit           | 91.64                      |
 | Servo Horn (AliExpress)           | Metal servo attachment                    | 1        | 0.99           | 0.99            | AliExpress Horn    | 92.63                      |
-| Raspberry Pi 4B                   | You already own this item                 | 1        | 0.00           | 0.00            | Raspberry Pi 4B    | 92.63                      |
+| Raspberry Pi 4B                   | Already Own                | 1        | 0.00           | 0.00            | Raspberry Pi 4B    | 92.63                      |
 
