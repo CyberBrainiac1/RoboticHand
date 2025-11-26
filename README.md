@@ -29,12 +29,13 @@ I chose to use **20 kg·cm servos** because I cannot precisely anticipate the re
 
 ## Bill of Materials (BOM)
 
-| Item | Description | Qty | Unit Price ($) | Total ($) | URL | Running Total ($ with Tax) |
-|------|-------------|-----|----------------|-----------|------|-----------------------------|
-| 20KG Digital Servo (AliExpress) | High-torque servo for finger actuation | 6 | 8.79 | 52.74 | AliExpress | 52.74 |
-| AliExpress Shipping | Shipping for servos | 1 | 9.77 | 9.77 | N/A | 62.51 |
-| Adafruit 16-Channel PWM/Servo HAT | Multi-servo controller for Raspberry Pi | 1 | 17.50 | 17.50 | Adafruit | 80.01 |
-| Shipping (Adafruit) | Standard shipping | 1 | 5.95 | 5.95 | Adafruit | 85.96 |
-| Metal Servo Horn | Stronger horn for string attachment | 1 | 0.99 | 0.99 | AliExpress | 86.95 |
+| Item                                  | Description                                | Qty | Unit Price ($) | Total Price ($) | URL | Running Total ($ with Tax) |
+|---------------------------------------|--------------------------------------------|-----|----------------|------------------|-----|------------------------------|
+| 20KG Digital Servo (AliExpress)       | High-torque waterproof servo               | 6   | 8.79           | 52.74            | https://www.aliexpress.us/item/3256808992396501.html | 52.74 |
+| AliExpress Shipping (Servo Order)     | Shipping for AliExpress servo/horn bundle  | 1   | 15.50          | 15.50            | N/A | 68.24 |
+| Adafruit 16-Channel PWM/Servo HAT     | Servo control board for Raspberry Pi       | 1   | 17.50          | 17.50            | https://www.adafruit.com/product/2327 | 85.74 |
+| Shipping (Adafruit)                   | Standard shipping                          | 1   | 5.95           | 5.95             | https://www.adafruit.com | 91.69 |
+| Servo Horn (AliExpress)               | Metal servo attachment                     | 1   | 0.99           | 0.99             | https://www.aliexpress.com/item/3256802841540071.html | 92.68 |
+
 
 
