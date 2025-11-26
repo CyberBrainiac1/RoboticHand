@@ -29,12 +29,13 @@ I chose to use **20 kg·cm servos** because I cannot precisely anticipate the re
 
 ## Bill of Materials (BOM)
 
-| Item                              | Description                               | Quantity | Unit Price ($) | Total Price ($) | URL                | Running Total ($ with Tax) |
-| --------------------------------- | ----------------------------------------- | -------- | -------------- | --------------- | ------------------ | -------------------------- |
-| 20KG Digital Servo (AliExpress)   | High-torque waterproof servo              | 6        | 8.79           | 52.74           | AliExpress Servo   | 52.74                      |
-| AliExpress Shipping (Servo Order) | Shipping for AliExpress servo/horn bundle | 1        | 15.45          | 15.45           | N/A                | 68.19                      |
-| Adafruit 16-Channel PWM/Servo HAT | Servo control board for Raspberry Pi      | 1        | 17.50          | 17.50           | Adafruit 16-Ch HAT | 85.69                      |
-| Shipping (Adafruit)               | Standard shipping                         | 1        | 5.95           | 5.95            | Adafruit           | 91.64                      |
-| Servo Horn (AliExpress)           | Metal servo attachment                    | 1        | 0.99           | 0.99            | AliExpress Horn    | 92.63                      |
-| Raspberry Pi 4B                   | Already Own                | 1        | 0.00           | 0.00            | Raspberry Pi 4B    | 92.63                      |
+| Item                              | Description                                 | Qty | Unit Price ($) | Total ($) | URL                                                                                                                   | Source     | Running Total ($) |
+|----------------------------------|---------------------------------------------|-----|-----------------|-----------|-----------------------------------------------------------------------------------------------------------------------|------------|---------------------|
+| MG90S 9g Micro Servo (15-pack)   | Metal gear micro servos for robotic fingers | 1   | 15.00           | 15.00     | https://www.aliexpress.us/item/3256807925508335.html                                                                 | AliExpress | 15.00              |
+| AliExpress Shipping              | Shipping for AliExpress items               | 1   | 5.00            | 5.00      | N/A                                                                                                                   | AliExpress | 20.00              |
+| Adafruit 16-Channel Servo HAT    | Servo control board for Raspberry Pi        | 1   | 17.50           | 17.50     | https://www.adafruit.com/product/2327                                                                                 | Adafruit   | 37.50              |
+| Shipping (Adafruit)              | Standard shipping                           | 1   | 5.95            | 5.95      | https://www.adafruit.com                                                                                              | Adafruit   | 43.45              |
+| Servo Horn (AliExpress, prev.)   | Metal servo attachment                      | 1   | 0.99            | 0.99      | https://www.aliexpress.com/item/3256802841540071.html                                                                 | AliExpress | 44.44              |
+| Raspberry Pi 4B                  | *You already own this item*                 | 1   | 0.00            | 0.00      | https://www.raspberrypi.org/products/raspberry-pi-4-model-b/                                                          | Local      | 44.44              |
+| **TOTAL**                        | —                                           | —   | —               | **44.44** | —                                                                                                                     | —          | **44.44**          |
 
