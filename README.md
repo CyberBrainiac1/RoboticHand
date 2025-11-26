@@ -12,15 +12,17 @@ I wanted hands-on experience with tendon-driven actuation, multi-servo control, 
 
 ## 3D Model Screenshots
 
-<img width="395" height="650" alt="image" src="https://github.com/user-attachments/assets/6b07c691-a54b-4a90-a34d-a1e2c733f9c9" />
-<img width="413" height="706" alt="image" src="https://github.com/user-attachments/assets/2cbce2e7-2e32-4fe3-ac27-93fb5b24297f" />
+<img width="445" height="637" alt="image" src="https://github.com/user-attachments/assets/d58d0ab8-7019-46b1-9cf2-67ba2af5bec8" />
 
-<img width="423" height="771" alt="image" src="https://github.com/user-attachments/assets/8547de84-a66f-4590-bfa7-e42ad193267c" />
 
 
 
 ---
+## Wiring
+I want to do the wiring exactly like this
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/25cc2481-d731-4d76-85a8-fdfcbda2c24a" />
 
+---
 ## Servo Torque Justification
 
 I chose to use **20 kg·cm servos** because I cannot precisely anticipate the real torque demands of a tendon-driven finger mechanism. Even though the fingers are lightweight, friction at each joint, the angles in the string routing, changing lever arms as the finger bends, and dynamic loads all multiply the torque the servo must provide. Instead of risking stalling, weak curls, or inconsistent grip strength, using high-torque servos gives a large safety margin and ensures smooth, reliable operation no matter how the mechanical system behaves. This also leaves room for future upgrades or heavier finger designs without needing to replace the actuators.
