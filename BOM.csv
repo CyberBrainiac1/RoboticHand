@@ -1,7 +1,8 @@
 Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($ with Tax)
-20KG Digital Servo (AliExpress),High-torque waterproof servo,6,8.79,52.74,https://www.aliexpress.us/item/3256808992396501.html?spm=a2g0o.productlist.main.22.388dtXDatXDaq1&algo_pvid=13a1852b-4ea0-428a-b89b-1646cb34516d-19&pdp_ext_f=%7B%22order%22%3A%2210%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2110.85%218.79%21%21%2176.73%2162.15%21%402101ea8c17640053227843094e4997%2112000048208917298%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A7c12fb58%3Bm03_new_user%3A-29895&curPageLogUid=Q3RLQKWiHTrD&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009178711253%7C_p_origin_prod%3A,52.74
-AliExpress Shipping (Servo Order),Shipping for AliExpress servo/horn bundle,1,15.45,15.45,N/A,68.19
-Adafruit 16-Channel PWM/Servo HAT,Servo control board for Raspberry Pi,1,17.50,17.50,https://www.adafruit.com/product/2327,85.69
-Shipping (Adafruit),Standard shipping,1,5.95,5.95,https://www.adafruit.com,91.64
-Servo Horn (AliExpress),Metal servo attachment,1,0.99,0.99,https://www.aliexpress.com/item/3256802841540071.html?spm=a2g0o.cart.0.0.238638da6VZGob&mp=1&pdp_npi=5%40dis%21USD%21USD%207.20%21USD%200.99%21%21USD%200.99%21%21%21%402103122117640337347515709e4002%2112000023318820499%21ct%21US%216812451202%21%211%210,92.63
-Raspberry Pi 4B,*already own*,1,0.00,0.00,https://www.raspberrypi.org/products/raspberry-pi-4-model-b/,92.63
+20KG Digital Servo (AliExpress Original),High-torque waterproof servo,1,8.79,8.79,https://www.aliexpress.us/item/3256808992396501.html,8.79
+9imod IP67 Waterproof Servo Pack,IP67 waterproof high torque servo (see image),1,17.79,17.79,N/A,26.58
+AliExpress Shipping (Servo Order),Shipping for AliExpress servo/horn bundle,1,15.45,15.45,N/A,42.03
+Adafruit 16-Channel PWM/Servo HAT,Servo control board for Raspberry Pi,1,17.50,17.50,https://www.adafruit.com/product/2327,59.53
+Shipping (Adafruit),Standard shipping,1,5.95,5.95,https://www.adafruit.com,65.48
+Servo Horn (AliExpress),Metal servo attachment,1,0.99,0.99,https://www.aliexpress.com/item/3256802841540071.html,66.47
+Raspberry Pi 4B,*You already own this item*,1,0.00,0.00,https://www.raspberrypi.org/products/raspberry-pi-4-model-b/,66.47
