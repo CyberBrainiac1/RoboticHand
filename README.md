@@ -14,6 +14,12 @@ I wanted hands-on experience with tendon-driven actuation, multi-servo control, 
 
 <img width="445" height="637" alt="image" src="https://github.com/user-attachments/assets/d58d0ab8-7019-46b1-9cf2-67ba2af5bec8" />
 
+## PCB
+I designed a custom PCB that will allow me to easily connect the servos to a usbc and my raspberry pi.
+Schematic
+<img width="954" height="455" alt="image" src="https://github.com/user-attachments/assets/262819bc-55a2-49bc-b58d-8f39eef93cd2" />
+PCB
+<img width="888" height="538" alt="image" src="https://github.com/user-attachments/assets/049e920b-72de-4bd0-a0a8-e3420ef0a8d5" />
 
 
 
